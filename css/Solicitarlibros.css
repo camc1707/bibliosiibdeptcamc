@@ -1,0 +1,130 @@
+@import url(https://weloveiconfonts.com/api/?family=fontawesome);
+
+/* fontawesome */
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+  color: black;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav{
+    background-color: rgb(216, 214, 111);
+    height: 20px;
+    font-size: 30px;
+    padding-left: 30px;
+}
+
+.nav a{
+    padding: 30px;
+    color:rgb(62, 66, 119);
+}
+
+.prc{
+    display: grid;
+    grid-template-rows: 200px 100px auto;
+    background-color: rgb(216, 214, 111);
+}
+
+
+.i1{
+    display: grid;
+    grid-template-columns: 750px 750px;
+}
+
+.i12{
+    display: grid;
+    grid-template-columns: 500px 250px;
+    padding-left: 250px;
+}
+
+img{
+    height: 42px;
+    margin-left: 91%;
+    border: 3px solid gray;
+    margin-top: 3px;
+}
+
+.i11{
+     justify-content: center;
+     align-items: center;
+     padding-left: 8%;
+     padding-top: 2.5%;
+     font-size: 50px;
+     margin-top: 2%;
+     color: rgb(75, 75, 41);
+ }
+
+.i2{
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+
+.i4{
+    padding-left: 0px;
+    font-size: 30px;
+    padding-left: 60px;
+    padding-right: 80px;
+}
+.encabezado{
+    font-weight: bold;
+}   
+input{
+    height: 25px;
+    width: 100px;
+    border-radius: 50px 50px 50px 50px;
+}
+.title{
+    margin-left: 0px;
+}
+
+
+.search{
+    width: 550px;
+    margin-left: 50px;
+    height: 45px;
+    font-size: 31px;
+}
+.xi{
+    padding-left:  60px;
+    margin-right: 0;
+}
+
+
+.butCan{
+    height: 50px;
+    width: 200px;
+    border: 3px solid gray;
+    font-size: 20px;
+    border-radius: 50px 50px 50px 50px;
+}
+
+select{
+    height: 50px;
+    width: 200px;
+    border: 3px solid gray;
+    font-size: 20px;
+    border-radius: 20px 20px 20px 20px;
+    
+}
+
+.conj{
+    text-align: center;
+}
+.nav1{
+    background-color:rgb(216, 214, 111);
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+    
+}
+.nav1 a{
+    padding: 25px;
+    text-decoration: none;
+}
+
+.lupa{
+    text-decoration: none;
+}

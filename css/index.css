@@ -1,0 +1,68 @@
+@import url(https://weloveiconfonts.com/api/?family=fontawesome);
+
+/* fontawesome */
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+  font-size: 50px;
+  
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.zr{
+    padding: 250px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    text-align: center;
+    border: 3px solid rgb(75, 75, 41);
+    border-radius: 50px 50px 50px 50px;
+    background-color:  rgb(223, 197, 83);
+    color: rgb(75, 75, 41);
+}
+.q{
+    padding: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+    background-color:  rgb(236, 232, 169);
+}
+
+.zr>h2{
+    font-size: 40px;
+    margin-right: 30px;
+}
+
+.i1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.in{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px 50px 50px 50px;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.xs{
+    padding-top: 45px;
+}
+
+.link{
+    padding-top: 40px;
+}
+a>input{
+    height: 50px;
+    width: 324px;
+    border-radius: 50px 50px 50px 50px;
+    font-size: 20px;
+    margin-top: 100px;
+    text-align: center;
+}
+
